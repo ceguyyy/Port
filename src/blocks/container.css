@@ -1,0 +1,31 @@
+.enhanced-security {
+    background-color: #1a1a1a; /* Dark background */
+    padding: 20px;
+    border-radius: 8px;
+    color: white;
+    display: flex;
+    flex-direction: column;
+    align-items: center; /* Center items vertically */
+  }
+  
+  .enhanced-security .icon {
+    margin-bottom: 10px;
+  }
+  
+  .enhanced-security .text {
+    text-align: center;
+    margin-bottom: 15px;
+  }
+  
+  .enhanced-security h2 {
+    margin-bottom: 5px;
+  }
+  
+  .enhanced-security .learn-more {
+    background-color: #007bff; /* Blue button */
+    color: white;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+  }
